@@ -1,4 +1,3 @@
 mastertest
 hhhhhh
-<<<<<<< HEAD
 my dev
