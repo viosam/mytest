@@ -1,7 +1,5 @@
 mastertest
-hhhhhh
-<<<<<<< HEAD
-mytest2
 
-=======
->>>>>>> parent of 6c955cf... mydev
+hhhhhh
+
+mytest2
